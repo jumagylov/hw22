@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jumagylov.github.io/hw22/static/css/main.b063016f.chunk.css",
+    "main.js": "/jumagylov.github.io/hw22/static/js/main.23436308.chunk.js",
+    "main.js.map": "/jumagylov.github.io/hw22/static/js/main.23436308.chunk.js.map",
+    "runtime-main.js": "/jumagylov.github.io/hw22/static/js/runtime-main.145d0a01.js",
+    "runtime-main.js.map": "/jumagylov.github.io/hw22/static/js/runtime-main.145d0a01.js.map",
+    "static/js/2.6a0b498e.chunk.js": "/jumagylov.github.io/hw22/static/js/2.6a0b498e.chunk.js",
+    "static/js/2.6a0b498e.chunk.js.map": "/jumagylov.github.io/hw22/static/js/2.6a0b498e.chunk.js.map",
+    "index.html": "/jumagylov.github.io/hw22/index.html",
+    "static/css/main.b063016f.chunk.css.map": "/jumagylov.github.io/hw22/static/css/main.b063016f.chunk.css.map",
+    "static/js/2.6a0b498e.chunk.js.LICENSE.txt": "/jumagylov.github.io/hw22/static/js/2.6a0b498e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.145d0a01.js",
+    "static/js/2.6a0b498e.chunk.js",
+    "static/css/main.b063016f.chunk.css",
+    "static/js/main.23436308.chunk.js"
+  ]
+}
